@@ -1,5 +1,5 @@
 # LetsMakeADeal
-Let's Make A Deal game, using C#
+Let's Make A Deal game, using C# to program.
 The player chooses a Door and the prize inside that door is revealed. The player can then keep that prize or be given the choice to choose another Door. Do not show the items under the other doors. If they choose another Door, the player gets to keep the prize inside that door.
 Set Up:
 1) "Door #1",  "Door #2" and  "Door #3."
