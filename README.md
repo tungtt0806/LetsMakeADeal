@@ -4,7 +4,7 @@ The player chooses a Door and the prize inside that door is revealed. The player
 Set Up:
 1) "Door #1",  "Door #2" and  "Door #3."
 
-2)While choosing the prizes, make sure get three grades of quality.
+2) While choosing the prizes, make sure get three grades of quality.
 
 3) Place one prize of each type under the boxes without anyone seeing it. You do not have to put the REALLY COOL prize in Door #1 because you don't want your players to figure out a pattern.
 
